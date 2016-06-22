@@ -1,0 +1,218 @@
+﻿{
+  "version": 1,
+  "minVersion": 1,
+
+  "groups": [
+    {
+      "bcp47": "fr-FR",
+      "items": [
+        {
+          "Id": "BFMBusiness",
+          "Title": "BFM Business",
+          "PictureSmall": "https://upload.wikimedia.org/wikipedia/fr/0/0d/BFM_Business_logo_2010.png",
+          "PictureLarge": "https://upload.wikimedia.org/wikipedia/fr/0/0d/BFM_Business_logo_2010.png",
+          "StreamUrl": "http://bfmbusiness.scdn.arkena.com/bfmbusiness.mp3",
+
+          //tbd
+          "Location": {
+            "Latitude": 1.0,
+            "Longitude": 1.0,
+            "Radius": 1.0
+          }
+        },
+        {
+          "Id": "RadioMeuh",
+          "Title": "Radio Meuh",
+          "PictureSvg": "res:images.logo.radioMeuh",
+          "StreamUrl": "http://radiomeuh.ice.infomaniak.ch/radiomeuh-64.aac.m3u"
+        },
+        {
+          "Id": "RireEtChansonsNouvelleGeneration",
+          "Title": "Rire et Chansons Nouvelle Génération",
+          "PictureSmall": "http://media.rireetchansons.fr/80x60/2015/10/rire-nouvelle-generation-70-70-header_14.png",
+          "PictureLarge": "http://media.rireetchansons.fr/80x60/2015/10/rire-nouvelle-generation-70-70-header_14.png",
+          "StreamUrl": "http://adwzg3.scdn.arkena.com/8573/nrj_177371.mp3"
+        },
+        {
+          "Id": "RireEtChansonsSketches",
+          "Title": "Rire & Chansons Sketches",
+          "PictureSmall": "http://media.nrj.fr/webradio_logo/100x100/2013/03/rire-sketches-120-120-tr_player85091.png",
+          "PictureLarge": "http://media.nrj.fr/webradio_logo/100x100/2013/03/rire-sketches-120-120-tr_player85091.png",
+          "StreamUrl": "http://adwzg3.scdn.arkena.com/8572/nrj_175797.mp3"
+        },
+        {
+          "Id": "Europe1",
+          "Title": "Europe 1",
+          "PictureSvg": "res:images.logo.europe1",
+          "StreamUrl": "http://mp3lg4.tdf-cdn.com/9240/lag_180945.mp3"
+          //"Streams": [
+          //  {
+          //    "bw": "48000",
+          //    "url": "http://mp3lg4.tdf-cdn.com/9240/lag_180945.mp3"
+          //  },
+          //  {
+          //    "bw": "24000",
+          //    "url": "http://mp3lg4.tdf-cdn.com/9240/lag_180945.mp3"
+          //  }
+          //]
+        },
+        {
+          "Id": "FranceCulture",
+          "Title": "France Culture",
+          "PictureSvg": "res:images.logo.FranceCulture",
+          "StreamUrl": "http://audio.scdn.arkena.com/11010/franceculture-midfi128.mp3"
+        },
+        {
+          "Id": "RadioFG",
+          "Title": "Radio FG",
+          "PictureSmall": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Radio_FG_logo_2013.png",
+          "PictureLarge": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Radio_FG_logo_2013.png",
+          "StreamUrl": "http://radiofg.impek.com/fg"
+        },
+        {
+          "Id": "RadioNova",
+          "Title": "Radio Nova",
+          "PictureSmall": "http://rtu.fm/wp-content/uploads/2014/06/Nova-Le-Grand-Mix.png",
+          "PictureLarge": "http://rtu.fm/wp-content/uploads/2014/06/Nova-Le-Grand-Mix.png",
+          "StreamUrl": "http://broadcast.infomaniak.net/radionova.aac"
+        },
+        {
+          "Id": "RTL",
+          "Title": "RTL",
+          "PictureSvg": "res:images.logo.rtl",
+          "StreamUrl": "http://icecast.rtl.fr/rtl-1-48-72.aac"
+        },
+        {
+          "Id": "RTL2",
+          "Title": "RTL2",
+          "PictureSvg": "res:images.logo.rtl2",
+          "StreamUrl": "http://icecast.rtl2.fr/rtl2-1-48-72.aac"
+        },
+        {
+          "Id": "Latina",
+          "Title": "Latina",
+          "PictureSmall": "https://upload.wikimedia.org/wikipedia/fr/c/c4/Latina_1.jpg",
+          "PictureLarge": "https://upload.wikimedia.org/wikipedia/fr/c/c4/Latina_1.jpg",
+          "StreamUrl": "http://broadcast.infomaniak.net/start-latina-high.aac"
+        },
+        {
+          "Id": "RMC",
+          "Title": "RMC",
+          "PictureSvg": "res:images.logo.rmc",
+          "StreamUrl": "http://rmc.scdn.arkena.com/rmc.mp3"
+        },
+        {
+          "Id": "FranceInter",
+          "Title": "France Inter",
+          "PictureSvg": "res:images.logo.FranceInter",
+          "StreamUrl": "http://audio.scdn.arkena.com/11008/franceinter-midfi128.mp3"
+        },
+        {
+          "Id": "FranceInfo",
+          "Title": "France Info",
+          "PictureSvg": "res:images.logo.FranceInfo",
+          "StreamUrl": "http://audio.scdn.arkena.com/11006/franceinfo-midfi128.mp3"
+        },
+        {
+          "Id": "FIP",
+          "Title": "FIP",
+          "PictureSvg": "res:images.logo.FIP",
+          "StreamUrl": "http://audio.scdn.arkena.com/11016/fip-midfi128.mp3"
+        },
+        {
+          "Id": "FunRadio",
+          "Title": "Fun Radio",
+          "PictureSmall": "https://upload.wikimedia.org/wikipedia/fr/e/eb/Fun_Radio.png",
+          "PictureLarge": "https://upload.wikimedia.org/wikipedia/fr/e/eb/Fun_Radio.png",
+          "StreamUrl": "http://icecast.funradio.fr/fun-1-48-72.aac"
+        },
+        {
+          "Id": "CherieFM",
+          "Title": "Chérie FM",
+          "PictureSmall": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ch%C3%A9rie_FM_logo_2012.png",
+          "PictureLarge": "http://ondemand.cheriefm.be/Images/CherieFM/CHERIEFM1024-500PX.png",
+          "StreamUrl": "http://adwzg3.scdn.arkena.com/8473/nrj_178499.mp3"
+        },
+        {
+          "Id": "VirginRadio",
+          "Title": "Virgin Radio",
+          "PictureSmall": "https://upload.wikimedia.org/wikipedia/fr/d/d1/VirginRadio.png",
+          "PictureLarge": "https://upload.wikimedia.org/wikipedia/fr/d/d1/VirginRadio.png",
+          "PictureSvg": "",
+          "StreamUrl": "http://vr-live-aac-64.scdn.arkena.com/virginradio.aac"
+        },
+        {
+          "Id": "Nostalgie",
+          "Title": "Nostalgie",
+          "PictureSmall": "https://upload.wikimedia.org/wikipedia/fr/0/0b/Nostalgie_logo_2015.png",
+          "PictureLarge": "https://upload.wikimedia.org/wikipedia/fr/0/0b/Nostalgie_logo_2015.png",
+          "PictureSvg": "",
+          "StreamUrl": "http://audio.scdn.arkena.com/12554/nrj_121955.mp3"
+        },
+        {
+          "Id": "RFM",
+          "Title": "RFM",
+          "PictureSmall": "http://www.rfm.fr/bundles/rfmintegration/images/logoRFM.png",
+          "PictureLarge": "http://www.rfm.fr/bundles/rfmintegration/images/logoRFM.png",
+          "PictureSvg": "",
+          "StreamUrl": "http://rfm-live-aac-64.scdn.arkena.com/rfm.aac"
+        },
+        {
+          "Id": "NRJFrance",
+          "Title": "NRJ France",
+          "PictureSvg": "http://www.nrj.fr/img/nrj.svg",
+          "StreamUrl": "http://cdn.nrjaudio.fm/audio1/fr/30001/aac_64.mp3"
+          //http://cdn.nrjaudio.fm/audio1/fr/40101/aac_576.mp3 //aac 576Kbits?
+        },
+        {
+          "Id": "RadioClassique",
+          "Title": "Radio Classique",
+          "PictureSvg": "res:images.logo.radioclassique",
+          "StreamUrl": "http://broadcast.infomaniak.net/radioclassique-high.aac"
+        },
+        {
+          "Id": "RadioSuisseClassique",
+          "Title": "Radio Suisse Classique",
+          "PictureSvg": "res:images.logo.radioswissclassic",
+          "StreamUrl": "http://www.radiosuisseclassique.ch/live/aacp.m3u"
+        },
+        {
+          "Id": "Skyrock",
+          "Title": "Skyrock",
+          "PictureSvg": "res:images.logo.skyrock",
+          "StreamUrl": "http://icecast.skyrock.net/s/natio_aac_64k"
+          // http://icecast.skyrock.net/s/natio_aac_32k
+        },
+        {
+          "Id": "JazzRadioBlues",
+          "Title": "Jazz Radio Blues",
+          "PictureSmall": "http://www.jazzradio.fr/media/radio/thumb/90x90_blues.png",
+          "PictureLarge": "https://upload.wikimedia.org/wikipedia/en/4/40/Jazz_Radio_Logo.png",
+          "PictureSvg": "",
+          "StreamUrl": "http://broadcast.infomaniak.net/jazzradio-high.aac"
+        }
+
+        //,{
+        //  "Id": "CherieFMZen",
+        //  "Title": "Cherie FM Zen",
+        //  "PictureSmall": "",
+        //  "PictureLarge": "",
+        //  "PictureSvg": "",
+        //  "StreamUrl": ""
+        //}
+        //https://git.framasoft.org/handylinux/handylinux-2/raw/master/config/includes.chroot/etc/skel/.local/share/radiotray/bookmarks.xml
+        //http://www.radio.fr/stations/
+
+        //Ogg Vorbis
+        //{
+        //  "Id": "AcikRadyo",
+        //  "Title": "Açık Radyo",
+        //  "PictureSmall": "http://acikradyo.com.tr/sites/all/themes/newsplus/logo.png",
+        //  "PictureLarge": "http://acikradyo.com.tr/sites/all/themes/newsplus/logo.png",
+        //  "StreamUrl": "http://stream.34bit.net/ar64.ogg"
+        //},
+      ]
+    }
+  ]
+}
+
