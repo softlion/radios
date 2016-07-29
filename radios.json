@@ -136,8 +136,8 @@
         {
           "Id": "VirginRadio",
           "Title": "Virgin Radio",
-          "PictureSmall": "https://upload.wikimedia.org/wikipedia/fr/d/d1/VirginRadio.png",
-          "PictureLarge": "https://upload.wikimedia.org/wikipedia/fr/d/d1/VirginRadio.png",
+          "PictureSmall": "http://www.virginradio.fr/default/modules/network/images/logo/white_full/virginradio.png",
+          "PictureLarge": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-vr.png",
           "PictureSvg": "",
           "StreamUrl": "http://vr-live-aac-64.scdn.arkena.com/virginradio.aac"
         },
