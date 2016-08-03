@@ -29,15 +29,15 @@
         {
           "Id": "RireEtChansonsNouvelleGeneration",
           "Title": "Rire et Chansons Nouvelle Génération",
-          "PictureSmall": "http://media.rireetchansons.fr/80x60/2015/10/rire-nouvelle-generation-70-70-header_14.png",
-          "PictureLarge": "http://media.rireetchansons.fr/80x60/2015/10/rire-nouvelle-generation-70-70-header_14.png",
+          "PictureSmall": "https://raw.githubusercontent.com/softlion/radios/master/logos/RIRE_Nouvelle_Generation.png",
+          "PictureLarge": "https://raw.githubusercontent.com/softlion/radios/master/logos/RIRE_Nouvelle_Generation.png",
           "StreamUrl": "http://cdn.nrjaudio.fm/adwz1/fr/30405/aac_64.mp3"
         },
         {
           "Id": "RireEtChansonsSketches",
           "Title": "Rire & Chansons Sketches",
-          "PictureSmall": "http://media.nrj.fr/webradio_logo/100x100/2013/03/rire-sketches-120-120-tr_player85091.png",
-          "PictureLarge": "http://media.nrj.fr/webradio_logo/100x100/2013/03/rire-sketches-120-120-tr_player85091.png",
+          "PictureSmall": "https://raw.githubusercontent.com/softlion/radios/master/logos/RIRE_Sketches.png",
+          "PictureLarge": "https://raw.githubusercontent.com/softlion/radios/master/logos/RIRE_Sketches.png",
           "StreamUrl": "http://cdn.nrjaudio.fm/adwz1/fr/30407/aac_64.mp3"
         },
         {
