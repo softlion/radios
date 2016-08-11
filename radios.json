@@ -160,7 +160,8 @@
         {
           "Id": "NRJFrance",
           "Title": "NRJ France",
-          "PictureSvg": "http://www.nrj.fr/img/nrj.svg",
+          //"PictureSvg": "http://www.nrj.fr/img/nrj.svg", //Not reliable download
+          "PictureSvg": "res:images.logo.nrj",
           "StreamUrl": "http://cdn.nrjaudio.fm/audio1/fr/30001/aac_64.mp3"
           //http://cdn.nrjaudio.fm/audio1/fr/40101/aac_576.mp3 //aac 576Kbits?
         },
