@@ -152,8 +152,8 @@
         {
           "Id": "RFM",
           "Title": "RFM",
-          "PictureSmall": "http://www.rfm.fr/bundles/rfmintegration/images/logoRFM.png",
-          "PictureLarge": "http://www.rfm.fr/bundles/rfmintegration/images/logoRFM.png",
+          "PictureSmall": "https://raw.githubusercontent.com/softlion/radios/master/logos/logoRFM.png",
+          "PictureLarge": "https://raw.githubusercontent.com/softlion/radios/master/logos/logoRFM.png",
           "PictureSvg": "",
           "StreamUrl": "http://rfm-live-aac-64.scdn.arkena.com/rfm.aac"
         },
