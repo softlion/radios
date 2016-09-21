@@ -11,7 +11,7 @@
           "Title": "BFM Business",
           "PictureSmall": "https://upload.wikimedia.org/wikipedia/fr/0/0d/BFM_Business_logo_2010.png",
           "PictureLarge": "https://upload.wikimedia.org/wikipedia/fr/0/0d/BFM_Business_logo_2010.png",
-          "StreamUrl": "http://bfmbusiness.scdn.arkena.com/bfmbusiness.mp3",
+          "StreamUrl": "http://bfmbusiness.cdn.dvmr.fr/bfmbusiness",
 
           //tbd
           "Location": {
