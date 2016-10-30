@@ -1,7 +1,9 @@
-﻿{
+{
   "version": 2,
   "minVersion": 1,
 
+  //http://www.radiofrance.fr/sites/default/files/pages_uploaded_files/radio_france_-_adresses_flux_mp3_-_octobre_2016.pdf
+  
   "groups": [
     {
       "bcp47": "fr-FR",
@@ -60,7 +62,7 @@
           "Id": "FranceCulture",
           "Title": "France Culture",
           "PictureSvg": "res:images.logo.FranceCulture",
-          "StreamUrl": "http://audio.scdn.arkena.com/11010/franceculture-midfi128.mp3"
+          "StreamUrl": "http://direct.franceculture.fr/live/franceculture-midfi.mp3"
         },
         {
           "Id": "RadioFG",
@@ -105,19 +107,19 @@
           "Id": "FranceInter",
           "Title": "France Inter",
           "PictureSvg": "res:images.logo.FranceInter",
-          "StreamUrl": "http://audio.scdn.arkena.com/11008/franceinter-midfi128.mp3"
+          "StreamUrl": "http://direct.franceinter.fr/live/franceinter-midfi.mp3"
         },
         {
           "Id": "FranceInfo",
           "Title": "France Info",
           "PictureSvg": "res:images.logo.FranceInfo",
-          "StreamUrl": "http://audio.scdn.arkena.com/11006/franceinfo-midfi128.mp3"
+          "StreamUrl": "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3"
         },
         {
           "Id": "FIP",
           "Title": "FIP",
           "PictureSvg": "res:images.logo.FIP",
-          "StreamUrl": "http://audio.scdn.arkena.com/11016/fip-midfi128.mp3"
+          "StreamUrl": "http://direct.fipradio.fr/live/fip-midfi.mp3"
         },
         {
           "Id": "FunRadio",
