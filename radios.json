@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "minVersion": 1,
 
   //http://www.radiofrance.fr/sites/default/files/pages_uploaded_files/radio_france_-_adresses_flux_mp3_-_octobre_2016.pdf
@@ -13,8 +13,7 @@
           "Title": "BFM Business",
           "PictureSmall": "https://upload.wikimedia.org/wikipedia/fr/0/0d/BFM_Business_logo_2010.png",
           "PictureLarge": "https://upload.wikimedia.org/wikipedia/fr/0/0d/BFM_Business_logo_2010.png",
-          "StreamUrl": "http://vapolia.fr/radiov1/bfm.mp3",
-          //"StreamUrl": "http://bfmbusiness.cdn.dvmr.fr/bfmbusiness", //Extensionless urls not supported yet
+          "StreamUrl": "http://bfmbusiness.cdn.dvmr.fr/bfmbusiness",
           //tbd
           "Location": {
             "Latitude": 1.0,
