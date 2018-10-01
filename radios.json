@@ -61,7 +61,7 @@
           "Id": "FranceCulture",
           "Title": "France Culture",
           "PictureSvg": "res:images.logo.FranceCulture",
-          "StreamUrl": "http://direct.franceculture.fr/live/franceculture-midfi.mp3"
+          "StreamUrl": "http://chai5she.cdn.dvmr.fr/franceculture-midfi.mp3"
         },
         {
           "Id": "RadioFG",
@@ -106,19 +106,19 @@
           "Id": "FranceInter",
           "Title": "France Inter",
           "PictureSvg": "res:images.logo.FranceInter",
-          "StreamUrl": "http://direct.franceinter.fr/live/franceinter-midfi.mp3"
+          "StreamUrl": "http://chai5she.cdn.dvmr.fr/franceinter-midfi.mp3"
         },
         {
           "Id": "FranceInfo",
           "Title": "France Info",
           "PictureSvg": "res:images.logo.FranceInfo",
-          "StreamUrl": "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3"
+          "StreamUrl": "http://chai5she.cdn.dvmr.fr/franceinfo-midfi.mp3"
         },
         {
           "Id": "FIP",
           "Title": "FIP",
           "PictureSvg": "res:images.logo.FIP",
-          "StreamUrl": "http://direct.fipradio.fr/live/fip-midfi.mp3"
+          "StreamUrl": "http://chai5she.cdn.dvmr.fr/fip-midfi.mp3"
         },
         {
           "Id": "FunRadio",
