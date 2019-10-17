@@ -133,6 +133,13 @@
           "PictureSvg": "res:images.logo.FranceCulture",
           "StreamUrl": "https://stream.radiofrance.fr/fipnouveautes/fipnouveautes_hifi.m3u8"
         },
+        {
+          "Id": "FIP.Electro",
+          "Title": "FIP Electro",
+          "PictureSvg": "res:images.logo.FranceCulture",
+          "StreamUrl": "https://stream.radiofrance.fr/fipelectro/fipelectro_hifi.m3u8"
+        },
+        
         
         
         {
