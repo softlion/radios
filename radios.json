@@ -1,9 +1,7 @@
 {
-  "version": 3,
+  "version": 4,
   "minVersion": 1,
 
-  //http://www.radiofrance.fr/sites/default/files/pages_uploaded_files/radio_france_-_adresses_flux_mp3_-_octobre_2016.pdf
-  
   "groups": [
     {
       "bcp47": "fr-FR",
@@ -63,6 +61,7 @@
           "PictureSvg": "res:images.logo.FranceCulture",
           "StreamUrl": "http://chai5she.cdn.dvmr.fr/franceculture-midfi.mp3"
         },
+
         {
           "Id": "RadioFG",
           "Title": "Radio FG",
@@ -102,24 +101,40 @@
           "PictureSvg": "res:images.logo.rmc",
           "StreamUrl": "http://rmc.scdn.arkena.com/rmc.mp3"
         },
+        
+        
         {
           "Id": "FranceInter",
           "Title": "France Inter",
           "PictureSvg": "res:images.logo.FranceInter",
-          "StreamUrl": "http://chai5she.cdn.dvmr.fr/franceinter-midfi.mp3"
+          "StreamUrl": "https://stream.radiofrance.fr/franceinter/franceinter_hifi.m3u8"
         },
         {
           "Id": "FranceInfo",
           "Title": "France Info",
           "PictureSvg": "res:images.logo.FranceInfo",
-          "StreamUrl": "http://chai5she.cdn.dvmr.fr/franceinfo-midfi.mp3"
+          "StreamUrl": "https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8"
         },
         {
           "Id": "FIP",
           "Title": "FIP",
           "PictureSvg": "res:images.logo.FIP",
-          "StreamUrl": "http://chai5she.cdn.dvmr.fr/fip-midfi.mp3"
+          "StreamUrl": "https://stream.radiofrance.fr/fip/fip_hifi.m3u8"
         },
+        {
+          "Id": "FIP.Rock",
+          "Title": "FIP Rock",
+          "PictureSvg": "res:images.logo.FranceCulture",
+          "StreamUrl": "https://stream.radiofrance.fr/fiprock/fiprock_hifi.m3u8"
+        },
+        {
+          "Id": "FIP.Nouveautes",
+          "Title": "FIP Nouveautés",
+          "PictureSvg": "res:images.logo.FranceCulture",
+          "StreamUrl": "https://stream.radiofrance.fr/fipnouveautes/fipnouveautes_hifi.m3u8"
+        },
+        
+        
         {
           "Id": "FunRadio",
           "Title": "Fun Radio",
