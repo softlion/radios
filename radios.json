@@ -139,7 +139,12 @@
           "PictureSvg": "res:images.logo.FranceCulture",
           "StreamUrl": "https://stream.radiofrance.fr/fipelectro/fipelectro_hifi.m3u8"
         },
-        
+        {
+          "Id": "FIP.Jazz",
+          "Title": "FIP Jazz",
+          "PictureSvg": "res:images.logo.FranceCulture",
+          "StreamUrl": "https://stream.radiofrance.fr/fipjazz/fipjazz_hifi.m3u8"
+        }, 
         
         
         {
